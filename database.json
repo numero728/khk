@@ -1,0 +1,9 @@
+{
+"DIALECT":"mysql",
+"DB_DRIVER":"pymysql",
+"DB_USERMAME":"admin",
+"DB_HOST":"personaldb.cepsu2i8bkn5.ap-northeast-2.rds.amazonaws.com",
+"DB_PASSWORD":"pnudb960726!",
+"DB_PORT":"3306",
+"DB_DATABASE":"scrap_data"
+}
