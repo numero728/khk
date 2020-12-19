@@ -1,7 +1,7 @@
 {
-  "REPO_URL":"https://github.com/numero728/miniproject",
-  "PROJECT_NAME":"miniproject",
-  "REMOTE_HOST":"ec2-52-79-235-233.ap-northeast-2.compute.amazonaws.com",
-  "REMOTE_HOST_SSH":"52.79.235.233",
-  "REMOTE_USER":"ubuntu"
+  "REPO_URL":"https://github.com/numero728/khk.git",
+  "PROJECT_NAME":"khk",
+  "REMOTE_HOST":"Configure",
+  "REMOTE_HOST_SSH":"52.149.162.212",
+  "REMOTE_USER":"azure"
 }
