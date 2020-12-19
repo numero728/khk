@@ -46,7 +46,7 @@ yna_news=pd.DataFrame(news_info,columns=news_info[0].keys())
 
 from datetime import datetime
 stamp=datetime.now().strftime('%Y-%m-%d')
-filename=path+'\\chkduple\\'+stamp+'.txt'
+filename=path+'/chkduple/'+stamp+'.txt'
 news_scrapped=yna_news['loc']
 if os.path.isfile(filename):
     news_duple=pd.read_csv(filename)
