@@ -1,7 +1,7 @@
 {
   "REPO_URL":"https://github.com/numero728/khk.git",
   "PROJECT_NAME":"khk",
-  "REMOTE_HOST":"Configure@52.149.162.212",
-  "REMOTE_HOST_SSH":"52.149.162.212",
+  "REMOTE_HOST":"Configure@40.88.130.23",
+  "REMOTE_HOST_SSH":"40.88.130.23:22",
   "REMOTE_USER":"khk"
 }
