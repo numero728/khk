@@ -42,7 +42,7 @@ apt_requirements    = [
     'libffi-dev',
     'build-essential',
     'libssl-dev python3-dev',
-    'unixodbc unixodbc-dev freetds-dev freetds-bin tdsodbc'
+    'unixodbc unixodbc-dev'
 ]
 
 ####### 함수 ################ <= 외부용 함수, 페브릭 명령 수행시 수행
